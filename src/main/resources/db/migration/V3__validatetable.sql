@@ -1,0 +1,1 @@
+alter table user modify mobile varchar(11);

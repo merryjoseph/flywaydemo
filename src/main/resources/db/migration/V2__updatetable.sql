@@ -1,0 +1,1 @@
+ALTER table user ADD COLUMN mobile varchar(255) after email;
